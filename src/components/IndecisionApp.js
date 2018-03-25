@@ -65,7 +65,7 @@ export default class IndecisionApp extends React.Component {
   };
 
   render() {
-    const subtitle = 'We decide what should you do next';
+    const subtitle = 'We decide what you should do next';
 
     return (
       <div>

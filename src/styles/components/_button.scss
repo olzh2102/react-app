@@ -4,7 +4,7 @@
   display: block;
   position: relative;
   background-color: #600613;
-  font-size: $l-size;
+  font-size: $m-size;
   font-weight: 400;
   color: white;
   text-transform: uppercase;
@@ -21,7 +21,7 @@
   top: 2px;
 }
 
-.bbig-buttontn:active {
+.big-buttontn:active {
   box-shadow: none;
   top: 6px;
 }
@@ -44,5 +44,5 @@
   border: none;
   color: $off-white;
   padding: 0;
-  text-transform: uppercase;
+  margin-right: $s-size; 
 }
